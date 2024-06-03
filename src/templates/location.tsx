@@ -72,7 +72,7 @@ export const config: TemplateConfig = {
       "c_contactMessage"
     ],
     localization: {
-      locales: ["en"],
+      locales:
       primary: false,
     },
     transform: {
